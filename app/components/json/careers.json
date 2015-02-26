@@ -155,7 +155,7 @@
   },
   {
     "occupation":"Biochemical Engineers",
-    "subject":["Chemistry",
+    "subject":["Chemistry"],
     "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
@@ -188,7 +188,7 @@
     "related":[]
   },
   {
-    "occupation":"Biological Science Teachers, Postsecond	ary",
+    "occupation":"Biological Science Teachers, Post secondary",
     "subject":["Life Sciences"],
     "description":"some description...",
     "url":"https://www.google.com/search?q=nuclear+bomb+technician",
@@ -259,13 +259,13 @@
   },
   {
     "occupation":"Chemical Equipment Operators and Tenders",
-    "subject":["Chemistry",
+    "subject":["Chemistry"],
     "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemical Plant and System Operators",
-    "subject":["Chemistry",
+    "subject":["Chemistry"],
     "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
