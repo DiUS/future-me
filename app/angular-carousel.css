@@ -60,15 +60,17 @@ div.rn-carousel-indicator span {
 
   &.rn-carousel-control-prev {
     left: 0.5em;
-    &:before {
-      content: "<";
-    }
+    width: 86px;
+    height: 86px;
+    background: url('images/arrow_left.jpg');
+    background-repeat: no-repeat;
   }
 
   &.rn-carousel-control-next {
     right: 0.5em;
-    &:before {
-      content: ">";
-    }
+    width: 86px;
+    height: 86px;
+    background: url('images/arrow_right.jpg');
+    background-repeat: no-repeat;
   }
 }
