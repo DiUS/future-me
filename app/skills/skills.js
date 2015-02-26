@@ -9,6 +9,8 @@ angular.module('myApp.skills', ['ngRoute'])
   });
 }])
 
-.controller('SkillsCtrl', [function() {
-	
+.controller('SkillsCtrl', ['$scope', '$location', function($scope, $location) {
+	$scope.forward = function(loc) {
+		$location.path(loc);
+	};
 }]);
