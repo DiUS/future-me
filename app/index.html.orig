@@ -26,12 +26,19 @@
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
   -->
+<<<<<<< HEAD
   <script src="/bower_components/angular/angular.js"></script>
   <script src="/bower_components/angular-route/angular-route.js"></script>
   <script src="/bower_components/angular-touch/angular-touch.js"></script>
   <script src="/bower_components/angular-carousel/src/directives/shifty.js"></script>
   <script src="/bower_components/angular-carousel/src/angular-carousel.js"></script>
-
+=======
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <link href="angular-carousel.css" rel="stylesheet" type="text/css" />
+<script src="angular-touch.js"></script>
+<script src="angular-carousel.js"></script>
+>>>>>>> layout
   <script src="app.js"></script>
   <script src="skills/skills.js"></script>
   <script src="subjects/subjects.js"></script>

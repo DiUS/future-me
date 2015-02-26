@@ -1,5 +1,47 @@
 [
-  {
+ {
+    "occupation":"Journalist",
+    "subject":["English"],
+    "description":"People who write or report stories in newspapers or television. Stories may or many not be true so put on your creative writing hat on!",
+    "url":"https://www.google.com/search?q=journalist",
+    "related":["Novelist"]
+ },
+ {
+    "occupation":"Novelist",
+    "subject":["English"],
+    "description":"You get to lose yourself in a fantasy world writing a story and get handsomely paid for it. Who said you can't have your cake and eat it.",
+    "url":"https://www.google.com/search?q=novelist",
+    "related":["Journalist"]
+ },
+ {
+    "occupation":"Dictionary Builder",
+    "subject":["English"],
+    "description":"Do you have a sufficiently verbose lexicon? Is your vernacular spectacular? Come help us shape the english language in a way that's grouse!",
+    "url":"https://www.google.com/search?q=dictionary+builder",
+    "related":["Novelist"]
+ },
+ {
+    "occupation":"Speech Writer",
+    "subject":["English"],
+    "description":"Putting words in people's mouth is now your every day job. Don't get told off for doing your job.",
+    "url":"https://www.google.com/search?q=speech+writer",
+    "related":["Journalist"]
+ },
+ {
+    "occupation":"Marine Biologist",
+    "subject":["Science"],
+    "description":"Watch the salty mist rise off the ocean before rinsing your scuba kit and diving to 30ft to do a count of the big fish (pelagics) at Blue Hole Reef. It's outdoors, it's different, as long as you don't mind the smell of fish a Marine Biologist is for you but don't spank the dolphin...",
+    "url":"https://www.google.com/search?q=marine+biologist",
+    "related":["Vet"]
+ },
+ {
+    "occupation":"Vet",
+    "subject":["Science"],
+    "description":"Something smells like wet dog, oh wait that's me! It's challenging and can be heart breaking but nothings better than when Fido wags his tail again. And you can also treat cats too - not sure why you'd want to though...",
+    "url":"https://www.google.com/search?q=Vet",
+    "related":["Marine Biologist"]
+ },
+ {
     "occupation":"Accountants",
     "subject":["Computer Science"],
     "description":"some description...",
@@ -929,8 +971,8 @@
   },
   {
     "occupation":"Nuclear Bomb Technicial",
-    "subject":["Engineering"],
-    "description":"some description...",
+    "subject":["Engineering", "Science"],
+    "description":"Do I cut the red wire or the green wire? Want a job that gives you a bang but you don't mind a bit of uranium poisoning. Think big, think nuclear bomb technician. psst cut the green wire!",
     "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Nuclear Engineers"]
   },
