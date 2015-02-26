@@ -1,0 +1,7 @@
+.DS_Store
+.externalToolBuilders/
+.settings/
+node_modules/
+bower_components/
+.project
+

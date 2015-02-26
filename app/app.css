@@ -34,6 +34,8 @@ body {
 }
 
 .header {
+  margin-left: auto;
+  margin-right: auto;
   width: 1341px;
   height: 170px;
   background: url('images/header.jpg');
