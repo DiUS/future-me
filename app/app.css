@@ -116,6 +116,14 @@ body {
   width: 450px;
 }
 
+.carousel {
+  margin-left: -100px;
+  width: 924px;
+  height: 454px;
+  background: url('images/carousel.jpg');
+  background-repeat: no-repeat;
+}
+
 .career-link {
   margin-top: 40px;
   margin-left: 10px;
