@@ -1,836 +1,836 @@
 [
   {
-    "Occupation":"Accountants",
+    "occupation":"Accountants",
     "subject":["Computer Science"],
     "related":["Auditors","Actuaries"]
   },
   {
-    "Occupation":"Actuaries",
+    "occupation":"Actuaries",
     "subject":["Mathematics"],
     "related":["Accountants", "Auditors"]
   },
   {
-    "Occupation":"Aerospace Engineering and Operations Technicians",
+    "occupation":"Aerospace Engineering and Operations Technicians",
     "subject":["Engineering"],
     "related":["Aerospace Engineers"]
   },
   {
-    "Occupation":"Aerospace Engineers",
+    "occupation":"Aerospace Engineers",
     "subject":["Engineering"],
     "related":["Aerospace Engineering and Operations Technicians"]
   },
   {
-    "Occupation":"Agricultural Engineers",
+    "occupation":"Agricultural Engineers",
     "subject":["Engineering", "Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Agricultural Sciences Teachers, Postsecondary",
+    "occupation":"Agricultural Sciences Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Agricultural Technicians",
+    "occupation":"Agricultural Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Aircraft Mechanics and Service Technicians",
+    "occupation":"Aircraft Mechanics and Service Technicians",
     "subject":["Engineering"],
     "related":["Aerospace Engineering and Operations Technicians", "Aerospace Engineers"]
   },
   {
-    "Occupation":"Animal Breeders",
+    "occupation":"Animal Breeders",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Animal Scientists",
+    "occupation":"Animal Scientists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Architects, Except Landscape and Naval",
+    "occupation":"Architects, Except Landscape and Naval",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Architectural and Engineering Managers",
+    "occupation":"Architectural and Engineering Managers",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Architectural Drafters",
+    "occupation":"Architectural Drafters",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Architecture Teachers, Postsecondary",
+    "occupation":"Architecture Teachers, Postsecondary",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Astronomers",
+    "occupation":"Astronomers",
     "subject":["Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Atmospheric and Space Scientists",
+    "occupation":"Atmospheric and Space Scientists",
     "subject":["Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+    "occupation":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
     "subject":["Geosciences", "Mathematics", "Physics/Astronomy"],
     "related":["Physics Teachers Postsecondary", "Natural Sciences Managers"]
   },
   {
-    "Occupation":"Auditors",
+    "occupation":"Auditors",
     "subject":["Computer Science"],
     "related":["Accountants", "Actuaries"]
   },
   {
-    "Occupation":"Automotive Engineering Technicians",
+    "occupation":"Automotive Engineering Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Automotive Master Mechanics",
+    "occupation":"Automotive Master Mechanics",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Automotive Specialty Technicians",
+    "occupation":"Automotive Specialty Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Avionics Technicians",
+    "occupation":"Avionics Technicians",
     "subject":["Engineering"],
     "related":["Aerospace Engineers"]
   },
   {
-    "Occupation":"Biochemical Engineers",
+    "occupation":"Biochemical Engineers",
     "subject":["Chemistry",
     "related":[]
   },
   {
-    "Occupation":"Biochemists and Biophysicists",
+    "occupation":"Biochemists and Biophysicists",
     "subject":["Chemistry", "Life Sciences", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Biofuels Production Managers",
+    "occupation":"Biofuels Production Managers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biofuels/Biodiesel Technology and Product Development Managers",
+    "occupation":"Biofuels/Biodiesel Technology and Product Development Managers",
     "subject":["Environmental Science", "Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Bioinformatics Technicians",
+    "occupation":"Bioinformatics Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biological Science Teachers, Postsecond	ary",
+    "occupation":"Biological Science Teachers, Postsecond	ary",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biological Technicians",
+    "occupation":"Biological Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biologists",
+    "occupation":"Biologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biomass Power Plant Managers",
+    "occupation":"Biomass Power Plant Managers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Biomedical Engineers",
+    "occupation":"Biomedical Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Biostatisticians",
+    "occupation":"Biostatisticians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Brownfield Redevelopment Specialists and Site Managers",
+    "occupation":"Brownfield Redevelopment Specialists and Site Managers",
     "subject":["Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Business Intelligence Analysts",
+    "occupation":"Business Intelligence Analysts",
     "subject":["Computer Science"],
     "related":["Accountants", "Actuaries"]
   },
   {
-    "Occupation":"Business Teachers, Postsecondary",
+    "occupation":"Business Teachers, Postsecondary",
     "subject":["Computer Science", "Mathematics"],
     "related":[]
   },
   {
-    "Occupation":"Chemical Engineers",
+    "occupation":"Chemical Engineers",
     "subject":["Chemistry", "Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Chemical Equipment Operators and Tenders",
+    "occupation":"Chemical Equipment Operators and Tenders",
     "subject":["Chemistry",
     "related":[]
   },
   {
-    "Occupation":"Chemical Plant and System Operators",
+    "occupation":"Chemical Plant and System Operators",
     "subject":["Chemistry",
     "related":[]
   },
   {
-    "Occupation":"Chemical Technicians",
+    "occupation":"Chemical Technicians",
     "subject":["Chemistry", "Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Chemistry Teachers, Postsecondary",
+    "occupation":"Chemistry Teachers, Postsecondary",
     "subject":["Chemistry", "Geosciences"],
     "related":[]
   },
   {
-    "Occupation":"Chemists",
+    "occupation":"Chemists",
     "subject":["Chemistry", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Civil Drafters",
+    "occupation":"Civil Drafters",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Civil Engineering Technicians",
+    "occupation":"Civil Engineering Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Civil Engineers",
+    "occupation":"Civil Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Climate Change Analysts",
+    "occupation":"Climate Change Analysts",
     "subject":["Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Clinical Psychologists",
+    "occupation":"Clinical Psychologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Computer and Information Research Scientists",
+    "occupation":"Computer and Information Research Scientists",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer and Information Systems Managers",
+    "occupation":"Computer and Information Systems Managers",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer Hardware Engineers",
+    "occupation":"Computer Hardware Engineers",
     "subject":["Computer Science", "Engineering"],
     "related":["Telecommunications Engineering Specialists", "Computer Network Architects"]
   },
   {
-    "Occupation":"Computer Network Architects",
+    "occupation":"Computer Network Architects",
     "subject":["Computer Science"],
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
-    "Occupation":"Computer Network Support Specialists",
+    "occupation":"Computer Network Support Specialists",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+    "occupation":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer Programmers",
+    "occupation":"Computer Programmers",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer Science Teachers, Postsecondary",
+    "occupation":"Computer Science Teachers, Postsecondary",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer Systems Analysts",
+    "occupation":"Computer Systems Analysts",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Computer User Support Specialists",
+    "occupation":"Computer User Support Specialists",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Construction Managers",
+    "occupation":"Construction Managers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Cooks, Institution and Cafeteria",
+    "occupation":"Cooks, Institution and Cafeteria",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Cost Estimators",
+    "occupation":"Cost Estimators",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Counseling Psychologists",
+    "occupation":"Counseling Psychologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Database Administrators",
+    "occupation":"Database Administrators",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Dietetic Technicians",
+    "occupation":"Dietetic Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Dietitians and Nutritionists",
+    "occupation":"Dietitians and Nutritionists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Electrical Engineering Technicians",
+    "occupation":"Electrical Engineering Technicians",
     "subject":["Computer Science", "Engineering"],
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
-    "Occupation":"Electrical Engineering Technologists",
+    "occupation":"Electrical Engineering Technologists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Electrical Engineers",
+    "occupation":"Electrical Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Electromechanical Engineering Technologists",
+    "occupation":"Electromechanical Engineering Technologists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Electromechanical Equipment Assemblers",
+    "occupation":"Electromechanical Equipment Assemblers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Electronics Engineering Technicians",
+    "occupation":"Electronics Engineering Technicians",
     "subject":["Computer Science", "Engineering"],
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
-    "Occupation":"Electronics Engineering Technologists",
+    "occupation":"Electronics Engineering Technologists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Electronics Engineers, Except Computer",
+    "occupation":"Electronics Engineers, Except Computer",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Engineering Teachers, Postsecondary",
+    "occupation":"Engineering Teachers, Postsecondary",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Compliance Inspectors",
+    "occupation":"Environmental Compliance Inspectors",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Engineering Technicians",
+    "occupation":"Environmental Engineering Technicians",
     "subject":["Engineering", "Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Engineers",
+    "occupation":"Environmental Engineers",
     "subject":["Engineering", "Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Restoration Planners",
+    "occupation":"Environmental Restoration Planners",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Science and Protection Technicians, Including Health",
+    "occupation":"Environmental Science and Protection Technicians, Including Health",
     "subject":["Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Science Teachers, Postsecondary",
+    "occupation":"Environmental Science Teachers, Postsecondary",
     "subject":["Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Environmental Scientists and Specialists, Including Health",
+    "occupation":"Environmental Scientists and Specialists, Including Health",
     "subject":["Environmental Science"],
     "related":[]
   },
   {
-    "Occupation":"Epidemiologists",
+    "occupation":"Epidemiologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Fallers",
+    "occupation":"Fallers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Farm and Home Management Advisors",
+    "occupation":"Farm and Home Management Advisors",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Farm and Ranch Managers",
+    "occupation":"Farm and Ranch Managers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Financial Quantitative Analysts",
+    "occupation":"Financial Quantitative Analysts",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Fire-Prevention and Protection Engineers",
+    "occupation":"Fire-Prevention and Protection Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"First-Line Supervisors of Agricultural Crop and Horticultural Workers",
+    "occupation":"First-Line Supervisors of Agricultural Crop and Horticultural Workers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"First-Line Supervisors of Animal Husbandry and Animal Care Workers",
+    "occupation":"First-Line Supervisors of Animal Husbandry and Animal Care Workers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"First-Line Supervisors of Aquacultural Workers",
+    "occupation":"First-Line Supervisors of Aquacultural Workers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"First-Line Supervisors of Food Preparation and Serving Workers",
+    "occupation":"First-Line Supervisors of Food Preparation and Serving Workers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Fish and Game Wardens",
+    "occupation":"Fish and Game Wardens",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Fishers and Related Fishing Workers",
+    "occupation":"Fishers and Related Fishing Workers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Food Batchmakers",
+    "occupation":"Food Batchmakers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Food Science Technicians",
+    "occupation":"Food Science Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Food Scientists and Technologists",
+    "occupation":"Food Scientists and Technologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Forest and Conservation Technicians",
+    "occupation":"Forest and Conservation Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Forest and Conservation Workers",
+    "occupation":"Forest and Conservation Workers",
     "subject":["Engineering", "Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Foresters",
+    "occupation":"Foresters",
     "subject":["Engineering", "Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Geneticists",
+    "occupation":"Geneticists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Geodetic Surveyors",
+    "occupation":"Geodetic Surveyors",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Geoscientists, Except Hydrologists and Geographers",
+    "occupation":"Geoscientists, Except Hydrologists and Geographers",
     "subject":["Geosciences"],
     "related":[]
   },
   {
-    "Occupation":"Graphic Designers",
+    "occupation":"Graphic Designers",
     "subject":["Computer Science"],
     "related":["Video Game Designers"]
   },
   {
-    "Occupation":"Health Specialties Teachers, Postsecondary",
+    "occupation":"Health Specialties Teachers, Postsecondary",
     "subject":["Life Sciences", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Home Economics Teachers, Postsecondary",
+    "occupation":"Home Economics Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Human Factors Engineers and Ergonomists",
+    "occupation":"Human Factors Engineers and Ergonomists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Hydrologists",
+    "occupation":"Hydrologists",
     "subject":["Geosciences"],
     "related":["Natural Sciences Managers"]
   },
   {
-    "Occupation":"Industrial Engineering Technicians",
+    "occupation":"Industrial Engineering Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Industrial Engineers",
+    "occupation":"Industrial Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Industrial Safety and Health Engineers",
+    "occupation":"Industrial Safety and Health Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Industrial-Organizational Psychologists",
+    "occupation":"Industrial-Organizational Psychologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Information Security Analysts",
+    "occupation":"Information Security Analysts",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Log Graders and Scalers",
+    "occupation":"Log Graders and Scalers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Logging Equipment Operators",
+    "occupation":"Logging Equipment Operators",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Manufacturing Engineers",
+    "occupation":"Manufacturing Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Marine Architects",
+    "occupation":"Marine Architects",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Marine Engineers",
+    "occupation":"Marine Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Materials Engineers",
+    "occupation":"Materials Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Materials Scientists",
+    "occupation":"Materials Scientists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Mathematical Science Teachers, Postsecondary",
+    "occupation":"Mathematical Science Teachers, Postsecondary",
     "subject":["Mathematics"],
     "related":["Statisticians", "Risk Management Specialists", "Mathematicians"]
   },
   {
-    "Occupation":"Mathematical Technicians",
+    "occupation":"Mathematical Technicians",
     "subject":["Mathematics"],
     "related":["Statisticians,Risk Management Specialists", "Mathematicians"]
   },
   {
-    "Occupation":"Mathematicians",
+    "occupation":"Mathematicians",
     "subject":["Mathematics"],
     "related":["Statisticians", "Risk Management Specialists"]
   },
   {
-    "Occupation":"Mechanical Engineering Technicians",
+    "occupation":"Mechanical Engineering Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Mechanical Engineering Technologists",
+    "occupation":"Mechanical Engineering Technologists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Mechanical Engineers",
+    "occupation":"Mechanical Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Mechatronics Engineers",
+    "occupation":"Mechatronics Engineers",
     "subject":["Computer Science", "Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Medical Scientists, Except Epidemiologists",
+    "occupation":"Medical Scientists, Except Epidemiologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Microbiologists",
+    "occupation":"Microbiologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Microsystems Engineers",
+    "occupation":"Microsystems Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Mining and Geological Engineers, Including Mining Safety Engineers",
+    "occupation":"Mining and Geological Engineers, Including Mining Safety Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Molecular and Cellular Biologists",
+    "occupation":"Molecular and Cellular Biologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Nanosystems Engineers",
+    "occupation":"Nanosystems Engineers",
     "subject":["Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Natural Sciences Managers",
+    "occupation":"Natural Sciences Managers",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Mathematics", "Physics/Astronomy"],
     "related":["Hydrologists"]
   },
   {
-    "Occupation":"Neuropsychologists and Clinical Neuropsychologists",
+    "occupation":"Neuropsychologists and Clinical Neuropsychologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Nuclear Engineers",
+    "occupation":"Nuclear Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Nuclear Equipment Operation Technicians",
+    "occupation":"Nuclear Equipment Operation Technicians",
     "subject":["Engineering", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Nuclear Medicine Technologists",
+    "occupation":"Nuclear Medicine Technologists",
     "subject":["Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Nuclear Monitoring Technicians",
+    "occupation":"Nuclear Monitoring Technicians",
     "subject":["Engineering", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Nursery and Greenhouse Managers",
+    "occupation":"Nursery and Greenhouse Managers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Operations Research Analysts",
+    "occupation":"Operations Research Analysts",
     "subject":["Computer Science", "Mathematics"],
     "related":[]
   },
   {
-    "Occupation":"Park Naturalists",
+    "occupation":"Park Naturalists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Petroleum Engineers",
+    "occupation":"Petroleum Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Photonics Engineers",
+    "occupation":"Photonics Engineers",
     "subject":["Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Physicists",
+    "occupation":"Physicists",
     "subject":["Mathematics", "Physics/Astronomy"],
     "related":["Physics Teachers, Postsecondary"]
   },
   {
-    "Occupation":"Physics Teachers, Postsecondary",
+    "occupation":"Physics Teachers, Postsecondary",
     "subject":["Mathematics", "Physics/Astronomy"],
     "related":["Physicists"]
   },
   {
-    "Occupation":"Precision Agriculture Technicians",
+    "occupation":"Precision Agriculture Technicians",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Product Safety Engineers",
+    "occupation":"Product Safety Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Psychologists, All Other",
+    "occupation":"Psychologists, All Other",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Psychology Teachers, Postsecondary",
+    "occupation":"Psychology Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Range Managers",
+    "occupation":"Range Managers",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Risk Management Specialists",
+    "occupation":"Risk Management Specialists",
     "subject":["Mathematics"],
     "related":["Statisticians", "Mathematicians"]
   },
   {
-    "Occupation":"School Psychologists",
+    "occupation":"School Psychologists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Security Management Specialists",
+    "occupation":"Security Management Specialists",
     "subject":["Computer Science"],
     "related":[]
   },
   {
-    "Occupation":"Software Developers, Applications",
+    "occupation":"Software Developers, Applications",
     "subject":["Computer Science", "Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Software Developers, Systems Software",
+    "occupation":"Software Developers, Systems Software",
     "subject":["Computer Science", "Engineering"],
     "related":["Video Game Designers"]
   },
   {
-    "Occupation":"Soil and Plant Scientists",
+    "occupation":"Soil and Plant Scientists",
     "subject":["Chemistry", "Life Sciences", "Physics/Astronomy"],
     "related":[]
   },
   {
-    "Occupation":"Soil and Water Conservationists",
+    "occupation":"Soil and Water Conservationists",
     "subject":["Life Sciences"],
     "related":[]
   },
   {
-    "Occupation":"Statisticians",
+    "occupation":"Statisticians",
     "subject":["Life Sciences", "Mathematics"],
     "related":["Risk Management Specialists", "Mathematicians"]
   },
   {
-    "Occupation":"Telecommunications Engineering Specialists",
+    "occupation":"Telecommunications Engineering Specialists",
     "subject":["Computer Science"],
     "related":["Computer Hardware Engineers", "Computer Network Architects"]
   },
   {
-    "Occupation":"Transportation Engineers",
+    "occupation":"Transportation Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Transportation Planners",
+    "occupation":"Transportation Planners",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+    "occupation":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Validation Engineers",
+    "occupation":"Validation Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Video Game Designers",
+    "occupation":"Video Game Designers",
     "subject":["Computer Science"],
     "related":["Graphic Designers"]
   },
   {
-    "Occupation":"Water Resource Specialists",
+    "occupation":"Water Resource Specialists",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Water/Wastewater Engineers",
+    "occupation":"Water/Wastewater Engineers",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Wind Turbine Service Technicians",
+    "occupation":"Wind Turbine Service Technicians",
     "subject":["Engineering"],
     "related":[]
   },
   {
-    "Occupation":"Zoologists and Wildlife Biologists",
+    "occupation":"Zoologists and Wildlife Biologists",
     "subject":["Life Sciences"],
     "related":[]
   }
