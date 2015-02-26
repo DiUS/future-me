@@ -24,7 +24,35 @@
   padding-right: 0.3em;
 }
 
+body {
+  margin: 0;
+}
+
 .menu > li:nth-child(1):before {
   content: "";
   padding: 0;
+}
+
+.header {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1341px;
+  height: 170px;
+  background: url('images/header.jpg');
+  background-repeat: no-repeat;
+}
+
+.spots {
+  float: left;
+  margin-top: 50px;
+  width: 266px;
+  height: 525px;
+  background: url('images/spots.png');
+  background-repeat: no-repeat;
+  margin-right: 50px;
+}
+.content-container {
+  min-width: 500px;
+  float: left;
+  margin-left: 50px;
 }
