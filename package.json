@@ -1,9 +1,9 @@
 {
-  "name": "angular-seed",
+  "name": "future-me",
   "private": true,
   "version": "0.0.0",
-  "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "description": "Future Me - careers exporer for DiUD hack day 3",
+  "repository": "https://github.com/dius/future-me",
   "license": "MIT",
   "devDependencies": {
     "karma": "~0.10",
