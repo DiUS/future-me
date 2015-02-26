@@ -3,1005 +3,1173 @@
     "occupation":"Accountants",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Auditors","Actuaries"]
   },
   {
     "occupation":"Actuaries",
     "subject":["Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Accountants", "Auditors"]
   },
   {
     "occupation":"Aerospace Engineering and Operations Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Aerospace Engineers"]
   },
   {
     "occupation":"Aerospace Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Aerospace Engineering and Operations Technicians"]
   },
   {
     "occupation":"Agricultural Engineers",
     "subject":["Engineering", "Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Agricultural Sciences Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Agricultural Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Aircraft Mechanics and Service Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Aerospace Engineering and Operations Technicians", "Aerospace Engineers"]
   },
   {
     "occupation":"Animal Breeders",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Animal Scientists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Architects, Except Landscape and Naval",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Architectural and Engineering Managers",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Architectural Drafters",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Architecture Teachers, Postsecondary",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Astronomers",
     "subject":["Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Atmospheric and Space Scientists",
     "subject":["Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
     "subject":["Geosciences", "Mathematics", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Physics Teachers Postsecondary", "Natural Sciences Managers"]
   },
   {
     "occupation":"Auditors",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Accountants", "Actuaries"]
   },
   {
     "occupation":"Automotive Engineering Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Automotive Master Mechanics",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Automotive Specialty Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Avionics Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Aerospace Engineers"]
   },
   {
     "occupation":"Biochemical Engineers",
     "subject":["Chemistry",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biochemists and Biophysicists",
     "subject":["Chemistry", "Life Sciences", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biofuels Production Managers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biofuels/Biodiesel Technology and Product Development Managers",
     "subject":["Environmental Science", "Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Bioinformatics Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biological Science Teachers, Postsecond	ary",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biological Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biomass Power Plant Managers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biomedical Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Biostatisticians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Brownfield Redevelopment Specialists and Site Managers",
     "subject":["Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Business Intelligence Analysts",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Accountants", "Actuaries"]
   },
   {
     "occupation":"Business Teachers, Postsecondary",
     "subject":["Computer Science", "Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemical Engineers",
     "subject":["Chemistry", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemical Equipment Operators and Tenders",
     "subject":["Chemistry",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemical Plant and System Operators",
     "subject":["Chemistry",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemical Technicians",
     "subject":["Chemistry", "Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemistry Teachers, Postsecondary",
     "subject":["Chemistry", "Geosciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Chemists",
     "subject":["Chemistry", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Civil Drafters",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Civil Engineering Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Civil Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Climate Change Analysts",
     "subject":["Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Clinical Psychologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer and Information Research Scientists",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer and Information Systems Managers",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer Hardware Engineers",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Telecommunications Engineering Specialists", "Computer Network Architects"]
   },
   {
     "occupation":"Computer Network Architects",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
     "occupation":"Computer Network Support Specialists",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer Programmers",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer Science Teachers, Postsecondary",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer Systems Analysts",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Computer User Support Specialists",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Construction Managers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Cooks, Institution and Cafeteria",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Cost Estimators",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Counseling Psychologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Database Administrators",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Dietetic Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Dietitians and Nutritionists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electrical Engineering Technicians",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
     "occupation":"Electrical Engineering Technologists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electrical Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electromechanical Engineering Technologists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electromechanical Equipment Assemblers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electronics Engineering Technicians",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Computer Hardware Engineers", "Telecommunications Engineering Specialists"]
   },
   {
     "occupation":"Electronics Engineering Technologists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Electronics Engineers, Except Computer",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Engineering Teachers, Postsecondary",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Compliance Inspectors",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Engineering Technicians",
     "subject":["Engineering", "Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Engineers",
     "subject":["Engineering", "Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Restoration Planners",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Science and Protection Technicians, Including Health",
     "subject":["Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Science Teachers, Postsecondary",
     "subject":["Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Environmental Scientists and Specialists, Including Health",
     "subject":["Environmental Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Epidemiologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Fallers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Farm and Home Management Advisors",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Farm and Ranch Managers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Financial Quantitative Analysts",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Fire-Prevention and Protection Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"First-Line Supervisors of Agricultural Crop and Horticultural Workers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"First-Line Supervisors of Animal Husbandry and Animal Care Workers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"First-Line Supervisors of Aquacultural Workers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"First-Line Supervisors of Food Preparation and Serving Workers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Fish and Game Wardens",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Fishers and Related Fishing Workers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Food Batchmakers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Food Science Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Food Scientists and Technologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Forest and Conservation Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Forest and Conservation Workers",
     "subject":["Engineering", "Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Foresters",
     "subject":["Engineering", "Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Geneticists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Geodetic Surveyors",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Geoscientists, Except Hydrologists and Geographers",
     "subject":["Geosciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Graphic Designers",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Video Game Designers"]
   },
   {
     "occupation":"Health Specialties Teachers, Postsecondary",
     "subject":["Life Sciences", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Home Economics Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Human Factors Engineers and Ergonomists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Hydrologists",
     "subject":["Geosciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Natural Sciences Managers"]
   },
   {
     "occupation":"Industrial Engineering Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Industrial Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Industrial Safety and Health Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Industrial-Organizational Psychologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Information Security Analysts",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Log Graders and Scalers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Logging Equipment Operators",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Manufacturing Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Marine Architects",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Marine Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Materials Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Materials Scientists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Mathematical Science Teachers, Postsecondary",
     "subject":["Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Statisticians", "Risk Management Specialists", "Mathematicians"]
   },
   {
     "occupation":"Mathematical Technicians",
     "subject":["Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Statisticians,Risk Management Specialists", "Mathematicians"]
   },
   {
     "occupation":"Mathematicians",
     "subject":["Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Statisticians", "Risk Management Specialists"]
   },
   {
     "occupation":"Mechanical Engineering Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Mechanical Engineering Technologists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Mechanical Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Mechatronics Engineers",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Medical Scientists, Except Epidemiologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Microbiologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Microsystems Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Mining and Geological Engineers, Including Mining Safety Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Molecular and Cellular Biologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nanosystems Engineers",
     "subject":["Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Natural Sciences Managers",
     "subject":["Chemistry", "Computer Science", "Engineering", "Geosciences", "Life Sciences", "Mathematics", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Hydrologists"]
   },
   {
     "occupation":"Neuropsychologists and Clinical Neuropsychologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nuclear Bomb Technicial",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Nuclear Engineers"]
   },
   {
     "occupation":"Nuclear Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nuclear Equipment Operation Technicians",
     "subject":["Engineering", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nuclear Medicine Technologists",
     "subject":["Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nuclear Monitoring Technicians",
     "subject":["Engineering", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Nursery and Greenhouse Managers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Operations Research Analysts",
     "subject":["Computer Science", "Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Park Naturalists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Petroleum Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Photonics Engineers",
     "subject":["Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Physicists",
     "subject":["Mathematics", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Physics Teachers, Postsecondary"]
   },
   {
     "occupation":"Physics Teachers, Postsecondary",
     "subject":["Mathematics", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Physicists"]
   },
   {
     "occupation":"Precision Agriculture Technicians",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Product Safety Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Psychologists, All Other",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Psychology Teachers, Postsecondary",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Range Managers",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Risk Management Specialists",
     "subject":["Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Statisticians", "Mathematicians"]
   },
   {
     "occupation":"School Psychologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Security Management Specialists",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Software Developers, Applications",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Software Developers, Systems Software",
     "subject":["Computer Science", "Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Video Game Designers"]
   },
   {
     "occupation":"Soil and Plant Scientists",
     "subject":["Chemistry", "Life Sciences", "Physics/Astronomy"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Soil and Water Conservationists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Statisticians",
     "subject":["Life Sciences", "Mathematics"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Risk Management Specialists", "Mathematicians"]
   },
   {
     "occupation":"Telecommunications Engineering Specialists",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Computer Hardware Engineers", "Computer Network Architects"]
   },
   {
     "occupation":"Transportation Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Transportation Planners",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Validation Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Video Game Designers",
     "subject":["Computer Science"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":["Graphic Designers"]
   },
   {
     "occupation":"Water Resource Specialists",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Water/Wastewater Engineers",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Wind Turbine Service Technicians",
     "subject":["Engineering"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   },
   {
     "occupation":"Zoologists and Wildlife Biologists",
     "subject":["Life Sciences"],
     "description":"some description...",
+    "url":"https://www.google.com/search?q=nuclear+bomb+technician",
     "related":[]
   }
 ]
