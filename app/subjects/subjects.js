@@ -4,7 +4,7 @@ angular.module('myApp.subjects', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/subjects', {
-    templateUrl: 'subjectss/subjects.html',
+    templateUrl: 'subjects/subjects.html',
     controller: 'SubjectsCtrl'
   });
 }])
