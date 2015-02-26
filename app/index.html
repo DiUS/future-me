@@ -14,7 +14,7 @@
   <script src="/bower_components/jquery/dist/jquery.min.js"></script>
 </head>
 <body>
-  <div class="header"></div>
+  <div class="header" onclick="location.href = ''"></div>
 
   <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
@@ -23,11 +23,7 @@
 
   <div class="spots"></div>
   <div class="content-container" ng-view>
-    <div class="good-at">What's your favorit subject?</div>
-    <br>
-    <div class="subject-link">Maths</div>
-    <div class="subject-link">Science</div>
-    <div class="subject-link">English</div>
+
   </div>
 
   <!-- In production use:
