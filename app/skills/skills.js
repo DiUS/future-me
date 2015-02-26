@@ -10,5 +10,5 @@ angular.module('myApp.skills', ['ngRoute'])
 }])
 
 .controller('SkillsCtrl', [function() {
-
+	
 }]);

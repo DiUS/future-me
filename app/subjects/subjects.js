@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('myApp.subjects', ['ngRoute'])
+angular.module('myApp.subjects', ['ngRoute', 'myApp.services'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/subjects', {
@@ -9,6 +9,7 @@ angular.module('myApp.subjects', ['ngRoute'])
   });
 }])
 
-.controller('SubjectsCtrl', [function() {
+.controller('SubjectsCtrl', ['CareersSvc', '$scope', function(CareersSvc, $scope) {
+	
 
 }]);
