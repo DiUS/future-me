@@ -665,6 +665,11 @@
     "related":[]
   },
   {
+    "occupation":"Nuclear Bomb Technicial",
+    "subject":["Engineering"],
+    "related":["Nuclear Engineers"]
+  },
+  {
     "occupation":"Nuclear Engineers",
     "subject":["Engineering"],
     "related":[]
