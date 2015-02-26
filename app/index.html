@@ -13,27 +13,32 @@
   <script src="/bower_components/html5-boilerplate/js/vendor/modernizr-2.6.2.min.js"></script>
 </head>
 <body>
-  <ul class="menu">
-    <li><a href="#/skills">skills</a></li>
-    <li><a href="#/subjects">subjects</a></li>
-  </ul>
+  <div class="header"></div>
 
-  <h1>Future Me</h1>
   <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
   <![endif]-->
 
-  <div ng-view></div>
+  <div class="spots"></div>
+  <div class="content-container" ng-view></div>
 
 
   <!-- In production use:
   <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
   -->
+<<<<<<< HEAD
   <script src="/bower_components/angular/angular.js"></script>
   <script src="/bower_components/angular-route/angular-route.js"></script>
   <script src="/bower_components/angular-touch/angular-touch.js"></script>
   <script src="/bower_components/angular-carousel/src/directives/shifty.js"></script>
   <script src="/bower_components/angular-carousel/src/angular-carousel.js"></script>
+=======
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="bower_components/angular-route/angular-route.js"></script>
+  <link href="angular-carousel.css" rel="stylesheet" type="text/css" />
+<script src="angular-touch.js"></script>
+<script src="angular-carousel.js"></script>
+>>>>>>> layout
   <script src="app.js"></script>
   <script src="skills/skills.js"></script>
   <script src="subjects/subjects.js"></script>
