@@ -1,5 +1,837 @@
-{
-    'title': 'teacher',
-    'skills': ['maths', 'education', 'kids'],
-    'related': ['coach', 'professor', 'counselor']
-},
+[
+  {
+    "Occupation":"Accountants",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Auditors, Actuaries"
+  },
+  {
+    "Occupation":"Actuaries",
+    "STEM Disciplines":"Mathematics",
+    "Related":"Accountants, Auditors"
+  },
+  {
+    "Occupation":"Aerospace Engineering and Operations Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":"Aerospace Engineers"
+  },
+  {
+    "Occupation":"Aerospace Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":"Aerospace Engineering and Operations Technicians"
+  },
+  {
+    "Occupation":"Agricultural Engineers",
+    "STEM Disciplines":"Engineering, Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Agricultural Sciences Teachers, Postsecondary",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Agricultural Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Aircraft Mechanics and Service Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":"Aerospace Engineering and Operations Technicians, Aerospace Engineers"
+  },
+  {
+    "Occupation":"Animal Breeders",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Animal Scientists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Architects, Except Landscape and Naval",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Architectural and Engineering Managers",
+    "STEM Disciplines":"Chemistry, Computer Science, Engineering, Geosciences, Life Sciences, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Architectural Drafters",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Architecture Teachers, Postsecondary",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Astronomers",
+    "STEM Disciplines":"Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Atmospheric and Space Scientists",
+    "STEM Disciplines":"Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",
+    "STEM Disciplines":"Geosciences, Mathematics, Physics/Astronomy",
+    "Related":"Physics Teachers Postsecondary, Natural Sciences Managers"
+  },
+  {
+    "Occupation":"Auditors",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Accountants, Actuaries"
+  },
+  {
+    "Occupation":"Automotive Engineering Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Automotive Master Mechanics",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Automotive Specialty Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Avionics Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":"Aerospace Engineers"
+  },
+  {
+    "Occupation":"Biochemical Engineers",
+    "STEM Disciplines":"Chemistry",
+    "Related":""
+  },
+  {
+    "Occupation":"Biochemists and Biophysicists",
+    "STEM Disciplines":"Chemistry, Life Sciences, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Biofuels Production Managers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biofuels/Biodiesel Technology and Product Development Managers",
+    "STEM Disciplines":"Environmental Science, Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Bioinformatics Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biological Science Teachers, Postsecondary",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biological Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biomass Power Plant Managers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Biomedical Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Biostatisticians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Brownfield Redevelopment Specialists and Site Managers",
+    "STEM Disciplines":"Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Business Intelligence Analysts",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Accountants, Actuaries"
+  },
+  {
+    "Occupation":"Business Teachers, Postsecondary",
+    "STEM Disciplines":"Computer Science, Mathematics",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemical Engineers",
+    "STEM Disciplines":"Chemistry, Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemical Equipment Operators and Tenders",
+    "STEM Disciplines":"Chemistry",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemical Plant and System Operators",
+    "STEM Disciplines":"Chemistry",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemical Technicians",
+    "STEM Disciplines":"Chemistry, Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemistry Teachers, Postsecondary",
+    "STEM Disciplines":"Chemistry, Geosciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Chemists",
+    "STEM Disciplines":"Chemistry, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Civil Drafters",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Civil Engineering Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Civil Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Climate Change Analysts",
+    "STEM Disciplines":"Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Clinical Psychologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer and Information Research Scientists",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer and Information Systems Managers",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer Hardware Engineers",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":"Telecommunications Engineering Specialists, Computer Network Architects"
+  },
+  {
+    "Occupation":"Computer Network Architects",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Computer Hardware Engineers, Telecommunications Engineering Specialists"
+  },
+  {
+    "Occupation":"Computer Network Support Specialists",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer Programmers",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer Science Teachers, Postsecondary",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer Systems Analysts",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Computer User Support Specialists",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Construction Managers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Cooks, Institution and Cafeteria",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Cost Estimators",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Counseling Psychologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Database Administrators",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Dietetic Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Dietitians and Nutritionists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Electrical Engineering Technicians",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":"Computer Hardware Engineers, Telecommunications Engineering Specialists"
+  },
+  {
+    "Occupation":"Electrical Engineering Technologists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Electrical Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Electromechanical Engineering Technologists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Electromechanical Equipment Assemblers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Electronics Engineering Technicians",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":"Computer Hardware Engineers, Telecommunications Engineering Specialists"
+  },
+  {
+    "Occupation":"Electronics Engineering Technologists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Electronics Engineers, Except Computer",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Engineering Teachers, Postsecondary",
+    "STEM Disciplines":"Chemistry, Computer Science, Engineering, Geosciences, Life Sciences, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Compliance Inspectors",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Engineering Technicians",
+    "STEM Disciplines":"Engineering, Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Engineers",
+    "STEM Disciplines":"Engineering, Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Restoration Planners",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Science and Protection Technicians, Including Health",
+    "STEM Disciplines":"Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Science Teachers, Postsecondary",
+    "STEM Disciplines":"Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Environmental Scientists and Specialists, Including Health",
+    "STEM Disciplines":"Environmental Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Epidemiologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Fallers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Farm and Home Management Advisors",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Farm and Ranch Managers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Financial Quantitative Analysts",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Fire-Prevention and Protection Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"First-Line Supervisors of Agricultural Crop and Horticultural Workers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"First-Line Supervisors of Animal Husbandry and Animal Care Workers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"First-Line Supervisors of Aquacultural Workers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"First-Line Supervisors of Food Preparation and Serving Workers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Fish and Game Wardens",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Fishers and Related Fishing Workers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Food Batchmakers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Food Science Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Food Scientists and Technologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Forest and Conservation Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Forest and Conservation Workers",
+    "STEM Disciplines":"Engineering, Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Foresters",
+    "STEM Disciplines":"Engineering, Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Geneticists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Geodetic Surveyors",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Geoscientists, Except Hydrologists and Geographers",
+    "STEM Disciplines":"Geosciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Graphic Designers",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Video Game Designers"
+  },
+  {
+    "Occupation":"Health Specialties Teachers, Postsecondary",
+    "STEM Disciplines":"Life Sciences, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Home Economics Teachers, Postsecondary",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Human Factors Engineers and Ergonomists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Hydrologists",
+    "STEM Disciplines":"Geosciences",
+    "Related":"Natural Sciences Managers"
+  },
+  {
+    "Occupation":"Industrial Engineering Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Industrial Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Industrial Safety and Health Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Industrial-Organizational Psychologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Information Security Analysts",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Log Graders and Scalers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Logging Equipment Operators",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Manufacturing Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Marine Architects",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Marine Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Materials Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Materials Scientists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Mathematical Science Teachers, Postsecondary",
+    "STEM Disciplines":"Mathematics",
+    "Related":"Statisticians, Risk Management Specialists,Mathematicians"
+  },
+  {
+    "Occupation":"Mathematical Technicians",
+    "STEM Disciplines":"Mathematics",
+    "Related":"Statisticians,Risk Management Specialists,Mathematicians"
+  },
+  {
+    "Occupation":"Mathematicians",
+    "STEM Disciplines":"Mathematics",
+    "Related":"Statisticians,Risk Management Specialists"
+  },
+  {
+    "Occupation":"Mechanical Engineering Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Mechanical Engineering Technologists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Mechanical Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Mechatronics Engineers",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Medical Scientists, Except Epidemiologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Microbiologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Microsystems Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Mining and Geological Engineers, Including Mining Safety Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Molecular and Cellular Biologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Nanosystems Engineers",
+    "STEM Disciplines":"Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Natural Sciences Managers",
+    "STEM Disciplines":"Chemistry, Computer Science, Engineering, Geosciences, Life Sciences, Mathematics, Physics/Astronomy",
+    "Related":"Hydrologists"
+  },
+  {
+    "Occupation":"Neuropsychologists and Clinical Neuropsychologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Nuclear Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Nuclear Equipment Operation Technicians",
+    "STEM Disciplines":"Engineering, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Nuclear Medicine Technologists",
+    "STEM Disciplines":"Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Nuclear Monitoring Technicians",
+    "STEM Disciplines":"Engineering, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Nursery and Greenhouse Managers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Operations Research Analysts",
+    "STEM Disciplines":"Computer Science, Mathematics",
+    "Related":""
+  },
+  {
+    "Occupation":"Park Naturalists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Petroleum Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Photonics Engineers",
+    "STEM Disciplines":"Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Physicists",
+    "STEM Disciplines":"Mathematics, Physics/Astronomy",
+    "Related":"Physics Teachers, Postsecondary"
+  },
+  {
+    "Occupation":"Physics Teachers, Postsecondary",
+    "STEM Disciplines":"Mathematics, Physics/Astronomy",
+    "Related":"Physicists"
+  },
+  {
+    "Occupation":"Precision Agriculture Technicians",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Product Safety Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Psychologists, All Other",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Psychology Teachers, Postsecondary",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Range Managers",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Risk Management Specialists",
+    "STEM Disciplines":"Mathematics",
+    "Related":"Statisticians,Mathematicians"
+  },
+  {
+    "Occupation":"School Psychologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Security Management Specialists",
+    "STEM Disciplines":"Computer Science",
+    "Related":""
+  },
+  {
+    "Occupation":"Software Developers, Applications",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Software Developers, Systems Software",
+    "STEM Disciplines":"Computer Science, Engineering",
+    "Related":"Video Game Designers"
+  },
+  {
+    "Occupation":"Soil and Plant Scientists",
+    "STEM Disciplines":"Chemistry, Life Sciences, Physics/Astronomy",
+    "Related":""
+  },
+  {
+    "Occupation":"Soil and Water Conservationists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  },
+  {
+    "Occupation":"Statisticians",
+    "STEM Disciplines":"Life Sciences, Mathematics",
+    "Related":"Risk Management Specialists,Mathematicians"
+  },
+  {
+    "Occupation":"Telecommunications Engineering Specialists",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Computer Hardware Engineers, Computer Network Architects"
+  },
+  {
+    "Occupation":"Transportation Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Transportation Planners",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Validation Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Video Game Designers",
+    "STEM Disciplines":"Computer Science",
+    "Related":"Graphic Designers"
+  },
+  {
+    "Occupation":"Water Resource Specialists",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Water/Wastewater Engineers",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Wind Turbine Service Technicians",
+    "STEM Disciplines":"Engineering",
+    "Related":""
+  },
+  {
+    "Occupation":"Zoologists and Wildlife Biologists",
+    "STEM Disciplines":"Life Sciences",
+    "Related":""
+  }
+]
