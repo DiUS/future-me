@@ -1,0 +1,295 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
+2 info using npm@1.4.13
+3 info using node@v0.10.28
+4 verbose node symlink /usr/local/bin/node
+5 verbose readDependencies using package.json deps
+6 verbose install where, deps [ '/Users/airleif/future-me',
+6 verbose install   [ 'karma',
+6 verbose install     'protractor',
+6 verbose install     'http-server',
+6 verbose install     'bower',
+6 verbose install     'shelljs',
+6 verbose install     'karma-junit-reporter' ] ]
+7 info preinstall angular-seed@0.0.0
+8 verbose readDependencies using package.json deps
+9 verbose cache add [ 'karma@~0.10', null ]
+10 verbose cache add name=undefined spec="karma@~0.10" args=["karma@~0.10",null]
+11 verbose parsed url { protocol: null,
+11 verbose parsed url   slashes: null,
+11 verbose parsed url   auth: null,
+11 verbose parsed url   host: null,
+11 verbose parsed url   port: null,
+11 verbose parsed url   hostname: null,
+11 verbose parsed url   hash: null,
+11 verbose parsed url   search: null,
+11 verbose parsed url   query: null,
+11 verbose parsed url   pathname: 'karma@~0.10',
+11 verbose parsed url   path: 'karma@~0.10',
+11 verbose parsed url   href: 'karma@~0.10' }
+12 verbose cache add [ 'protractor@^1.1.1', null ]
+13 verbose cache add name=undefined spec="protractor@^1.1.1" args=["protractor@^1.1.1",null]
+14 verbose parsed url { protocol: null,
+14 verbose parsed url   slashes: null,
+14 verbose parsed url   auth: null,
+14 verbose parsed url   host: null,
+14 verbose parsed url   port: null,
+14 verbose parsed url   hostname: null,
+14 verbose parsed url   hash: null,
+14 verbose parsed url   search: null,
+14 verbose parsed url   query: null,
+14 verbose parsed url   pathname: 'protractor@^1.1.1',
+14 verbose parsed url   path: 'protractor@^1.1.1',
+14 verbose parsed url   href: 'protractor@^1.1.1' }
+15 verbose cache add [ 'http-server@^0.6.1', null ]
+16 verbose cache add name=undefined spec="http-server@^0.6.1" args=["http-server@^0.6.1",null]
+17 verbose parsed url { protocol: null,
+17 verbose parsed url   slashes: null,
+17 verbose parsed url   auth: null,
+17 verbose parsed url   host: null,
+17 verbose parsed url   port: null,
+17 verbose parsed url   hostname: null,
+17 verbose parsed url   hash: null,
+17 verbose parsed url   search: null,
+17 verbose parsed url   query: null,
+17 verbose parsed url   pathname: 'http-server@^0.6.1',
+17 verbose parsed url   path: 'http-server@^0.6.1',
+17 verbose parsed url   href: 'http-server@^0.6.1' }
+18 verbose cache add name="karma" spec="~0.10" args=["karma","~0.10"]
+19 verbose parsed url { protocol: null,
+19 verbose parsed url   slashes: null,
+19 verbose parsed url   auth: null,
+19 verbose parsed url   host: null,
+19 verbose parsed url   port: null,
+19 verbose parsed url   hostname: null,
+19 verbose parsed url   hash: null,
+19 verbose parsed url   search: null,
+19 verbose parsed url   query: null,
+19 verbose parsed url   pathname: '~0.10',
+19 verbose parsed url   path: '~0.10',
+19 verbose parsed url   href: '~0.10' }
+20 verbose addNamed [ 'karma', '~0.10' ]
+21 verbose addNamed [ null, '>=0.10.0-0 <0.11.0-0' ]
+22 verbose cache add name="protractor" spec="^1.1.1" args=["protractor","^1.1.1"]
+23 verbose parsed url { protocol: null,
+23 verbose parsed url   slashes: null,
+23 verbose parsed url   auth: null,
+23 verbose parsed url   host: null,
+23 verbose parsed url   port: null,
+23 verbose parsed url   hostname: null,
+23 verbose parsed url   hash: null,
+23 verbose parsed url   search: null,
+23 verbose parsed url   query: null,
+23 verbose parsed url   pathname: '^1.1.1',
+23 verbose parsed url   path: '^1.1.1',
+23 verbose parsed url   href: '^1.1.1' }
+24 verbose addNamed [ 'protractor', '^1.1.1' ]
+25 verbose addNamed [ null, '>=1.1.1-0 <2.0.0-0' ]
+26 verbose cache add [ 'bower@^1.3.1', null ]
+27 verbose cache add name=undefined spec="bower@^1.3.1" args=["bower@^1.3.1",null]
+28 verbose parsed url { protocol: null,
+28 verbose parsed url   slashes: null,
+28 verbose parsed url   auth: null,
+28 verbose parsed url   host: null,
+28 verbose parsed url   port: null,
+28 verbose parsed url   hostname: null,
+28 verbose parsed url   hash: null,
+28 verbose parsed url   search: null,
+28 verbose parsed url   query: null,
+28 verbose parsed url   pathname: 'bower@^1.3.1',
+28 verbose parsed url   path: 'bower@^1.3.1',
+28 verbose parsed url   href: 'bower@^1.3.1' }
+29 verbose cache add [ 'shelljs@^0.2.6', null ]
+30 verbose cache add name=undefined spec="shelljs@^0.2.6" args=["shelljs@^0.2.6",null]
+31 verbose parsed url { protocol: null,
+31 verbose parsed url   slashes: null,
+31 verbose parsed url   auth: null,
+31 verbose parsed url   host: null,
+31 verbose parsed url   port: null,
+31 verbose parsed url   hostname: null,
+31 verbose parsed url   hash: null,
+31 verbose parsed url   search: null,
+31 verbose parsed url   query: null,
+31 verbose parsed url   pathname: 'shelljs@^0.2.6',
+31 verbose parsed url   path: 'shelljs@^0.2.6',
+31 verbose parsed url   href: 'shelljs@^0.2.6' }
+32 verbose cache add name="http-server" spec="^0.6.1" args=["http-server","^0.6.1"]
+33 verbose parsed url { protocol: null,
+33 verbose parsed url   slashes: null,
+33 verbose parsed url   auth: null,
+33 verbose parsed url   host: null,
+33 verbose parsed url   port: null,
+33 verbose parsed url   hostname: null,
+33 verbose parsed url   hash: null,
+33 verbose parsed url   search: null,
+33 verbose parsed url   query: null,
+33 verbose parsed url   pathname: '^0.6.1',
+33 verbose parsed url   path: '^0.6.1',
+33 verbose parsed url   href: '^0.6.1' }
+34 verbose addNamed [ 'http-server', '^0.6.1' ]
+35 verbose addNamed [ null, '>=0.6.1-0 <0.7.0-0' ]
+36 silly lockFile 059b5650-karma-0-10 karma@~0.10
+37 verbose lock karma@~0.10 /Users/airleif/.npm/059b5650-karma-0-10.lock
+38 silly lockFile 345c784a-protractor-1-1-1 protractor@^1.1.1
+39 verbose lock protractor@^1.1.1 /Users/airleif/.npm/345c784a-protractor-1-1-1.lock
+40 silly lockFile e7eeaefd-http-server-0-6-1 http-server@^0.6.1
+41 verbose lock http-server@^0.6.1 /Users/airleif/.npm/e7eeaefd-http-server-0-6-1.lock
+42 verbose cache add name="bower" spec="^1.3.1" args=["bower","^1.3.1"]
+43 verbose parsed url { protocol: null,
+43 verbose parsed url   slashes: null,
+43 verbose parsed url   auth: null,
+43 verbose parsed url   host: null,
+43 verbose parsed url   port: null,
+43 verbose parsed url   hostname: null,
+43 verbose parsed url   hash: null,
+43 verbose parsed url   search: null,
+43 verbose parsed url   query: null,
+43 verbose parsed url   pathname: '^1.3.1',
+43 verbose parsed url   path: '^1.3.1',
+43 verbose parsed url   href: '^1.3.1' }
+44 verbose addNamed [ 'bower', '^1.3.1' ]
+45 verbose addNamed [ null, '>=1.3.1-0 <2.0.0-0' ]
+46 silly lockFile 7c83895e-bower-1-3-1 bower@^1.3.1
+47 verbose lock bower@^1.3.1 /Users/airleif/.npm/7c83895e-bower-1-3-1.lock
+48 verbose cache add [ 'karma-junit-reporter@^0.2.2', null ]
+49 verbose cache add name=undefined spec="karma-junit-reporter@^0.2.2" args=["karma-junit-reporter@^0.2.2",null]
+50 verbose parsed url { protocol: null,
+50 verbose parsed url   slashes: null,
+50 verbose parsed url   auth: null,
+50 verbose parsed url   host: null,
+50 verbose parsed url   port: null,
+50 verbose parsed url   hostname: null,
+50 verbose parsed url   hash: null,
+50 verbose parsed url   search: null,
+50 verbose parsed url   query: null,
+50 verbose parsed url   pathname: 'karma-junit-reporter@^0.2.2',
+50 verbose parsed url   path: 'karma-junit-reporter@^0.2.2',
+50 verbose parsed url   href: 'karma-junit-reporter@^0.2.2' }
+51 verbose cache add name="shelljs" spec="^0.2.6" args=["shelljs","^0.2.6"]
+52 verbose parsed url { protocol: null,
+52 verbose parsed url   slashes: null,
+52 verbose parsed url   auth: null,
+52 verbose parsed url   host: null,
+52 verbose parsed url   port: null,
+52 verbose parsed url   hostname: null,
+52 verbose parsed url   hash: null,
+52 verbose parsed url   search: null,
+52 verbose parsed url   query: null,
+52 verbose parsed url   pathname: '^0.2.6',
+52 verbose parsed url   path: '^0.2.6',
+52 verbose parsed url   href: '^0.2.6' }
+53 verbose addNamed [ 'shelljs', '^0.2.6' ]
+54 verbose addNamed [ null, '>=0.2.6-0 <0.3.0-0' ]
+55 silly lockFile cdaabbbd-shelljs-0-2-6 shelljs@^0.2.6
+56 verbose lock shelljs@^0.2.6 /Users/airleif/.npm/cdaabbbd-shelljs-0-2-6.lock
+57 verbose cache add name="karma-junit-reporter" spec="^0.2.2" args=["karma-junit-reporter","^0.2.2"]
+58 verbose parsed url { protocol: null,
+58 verbose parsed url   slashes: null,
+58 verbose parsed url   auth: null,
+58 verbose parsed url   host: null,
+58 verbose parsed url   port: null,
+58 verbose parsed url   hostname: null,
+58 verbose parsed url   hash: null,
+58 verbose parsed url   search: null,
+58 verbose parsed url   query: null,
+58 verbose parsed url   pathname: '^0.2.2',
+58 verbose parsed url   path: '^0.2.2',
+58 verbose parsed url   href: '^0.2.2' }
+59 verbose addNamed [ 'karma-junit-reporter', '^0.2.2' ]
+60 verbose addNamed [ null, '>=0.2.2-0 <0.3.0-0' ]
+61 silly lockFile 6934e75d-karma-junit-reporter-0-2-2 karma-junit-reporter@^0.2.2
+62 verbose lock karma-junit-reporter@^0.2.2 /Users/airleif/.npm/6934e75d-karma-junit-reporter-0-2-2.lock
+63 silly addNameRange { name: 'karma', range: '>=0.10.0-0 <0.11.0-0', hasData: false }
+64 silly addNameRange { name: 'protractor',
+64 silly addNameRange   range: '>=1.1.1-0 <2.0.0-0',
+64 silly addNameRange   hasData: false }
+65 silly addNameRange { name: 'http-server',
+65 silly addNameRange   range: '>=0.6.1-0 <0.7.0-0',
+65 silly addNameRange   hasData: false }
+66 silly addNameRange { name: 'bower', range: '>=1.3.1-0 <2.0.0-0', hasData: false }
+67 silly addNameRange { name: 'shelljs', range: '>=0.2.6-0 <0.3.0-0', hasData: false }
+68 silly addNameRange { name: 'karma-junit-reporter',
+68 silly addNameRange   range: '>=0.2.2-0 <0.3.0-0',
+68 silly addNameRange   hasData: false }
+69 verbose url raw karma-junit-reporter
+70 verbose url resolving [ 'https://registry.npmjs.org/', './karma-junit-reporter' ]
+71 verbose url resolved https://registry.npmjs.org/karma-junit-reporter
+72 info trying registry request attempt 1 at 11:18:51
+73 http GET https://registry.npmjs.org/karma-junit-reporter
+74 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+75 verbose url raw karma
+76 verbose url resolving [ 'https://registry.npmjs.org/', './karma' ]
+77 verbose url resolved https://registry.npmjs.org/karma
+78 info trying registry request attempt 1 at 11:18:51
+79 verbose etag "3Z5NA2ZQ8SZFNJFK9GK275JF9"
+80 http GET https://registry.npmjs.org/karma
+81 verbose url raw bower
+82 verbose url resolving [ 'https://registry.npmjs.org/', './bower' ]
+83 verbose url resolved https://registry.npmjs.org/bower
+84 info trying registry request attempt 1 at 11:18:51
+85 verbose etag "BNEPXH85JRVX0PTJ3Z7BEQ39Y"
+86 http GET https://registry.npmjs.org/bower
+87 verbose url raw http-server
+88 verbose url resolving [ 'https://registry.npmjs.org/', './http-server' ]
+89 verbose url resolved https://registry.npmjs.org/http-server
+90 info trying registry request attempt 1 at 11:18:51
+91 verbose etag "BAIZSQ2SPV2CJ1O12LM3A5XTV"
+92 http GET https://registry.npmjs.org/http-server
+93 verbose url raw protractor
+94 verbose url resolving [ 'https://registry.npmjs.org/', './protractor' ]
+95 verbose url resolved https://registry.npmjs.org/protractor
+96 info trying registry request attempt 1 at 11:18:51
+97 verbose etag "4YM7SCYVB7YU8OQNZVA5W4GSY"
+98 http GET https://registry.npmjs.org/protractor
+99 verbose url raw shelljs
+100 verbose url resolving [ 'https://registry.npmjs.org/', './shelljs' ]
+101 verbose url resolved https://registry.npmjs.org/shelljs
+102 info trying registry request attempt 1 at 11:18:51
+103 verbose etag "AKRP8YJKK5R67Q3JD834LTNRB"
+104 http GET https://registry.npmjs.org/shelljs
+105 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+106 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+107 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+108 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+109 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+110 info trying registry request attempt 2 at 11:19:01
+111 http GET https://registry.npmjs.org/karma-junit-reporter
+112 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+113 info trying registry request attempt 2 at 11:19:01
+114 verbose etag "3Z5NA2ZQ8SZFNJFK9GK275JF9"
+115 http GET https://registry.npmjs.org/karma
+116 info trying registry request attempt 2 at 11:19:01
+117 verbose etag "BNEPXH85JRVX0PTJ3Z7BEQ39Y"
+118 http GET https://registry.npmjs.org/bower
+119 info trying registry request attempt 2 at 11:19:01
+120 verbose etag "BAIZSQ2SPV2CJ1O12LM3A5XTV"
+121 http GET https://registry.npmjs.org/http-server
+122 info trying registry request attempt 2 at 11:19:01
+123 verbose etag "4YM7SCYVB7YU8OQNZVA5W4GSY"
+124 http GET https://registry.npmjs.org/protractor
+125 info trying registry request attempt 2 at 11:19:01
+126 verbose etag "AKRP8YJKK5R67Q3JD834LTNRB"
+127 http GET https://registry.npmjs.org/shelljs
+128 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+129 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+130 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+131 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+132 info retry will retry, error on last attempt: Error: tunneling socket could not be established, cause=connect ECONNREFUSED
+133 info trying registry request attempt 3 at 11:20:01
+134 http GET https://registry.npmjs.org/karma-junit-reporter
+135 silly lockFile 6934e75d-karma-junit-reporter-0-2-2 karma-junit-reporter@^0.2.2
+136 silly lockFile 6934e75d-karma-junit-reporter-0-2-2 karma-junit-reporter@^0.2.2
+137 error network tunneling socket could not be established, cause=connect ECONNREFUSED
+137 error network This is most likely not a problem with npm itself
+137 error network and is related to network connectivity.
+137 error network In most cases you are behind a proxy or have bad network settings.
+137 error network
+137 error network If you are behind a proxy, please make sure that the
+137 error network 'proxy' config is set properly.  See: 'npm help config'
+138 error System Darwin 14.0.0
+139 error command "node" "/usr/local/bin/npm" "install"
+140 error cwd /Users/airleif/future-me
+141 error node -v v0.10.28
+142 error npm -v 1.4.13
+143 error code ECONNRESET
+144 verbose exit [ 1, true ]
