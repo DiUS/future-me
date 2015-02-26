@@ -81,4 +81,18 @@ body {
   vertical-align: middle;
   text-align: center;
   border: 1px solid #00ad94;
+
+}
+.button:hover {
+  background-color: #00ad94;
+}
+
+.subject-link {
+  margin: 10px;
+  margin-right: 40px;
+  color: #00ad94;
+  font-family: Helvetica;
+  font-size: 20px;
+  display: inline-block;
+  font-weight: 100;
 }
